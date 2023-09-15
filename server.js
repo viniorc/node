@@ -1,4 +1,5 @@
-const http = require('http')
+//const http = require('http')
+import http from 'http'
 
 const PORT = 5000
 const HOST = 'localhost'
